@@ -12,12 +12,12 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-00C7B7?style=flat-square&logo=prisma)
-![Blender](https://img.shields.io/badge/Blender-00C7B7?style=flat-square&logo=blender&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
 
 I am a Full Stack Developer with a huge love for Three.js, Next.js, React.js, Python, TailwindCSS and 3D Animation and Rendering. Currently, **I'm open to work and employment opportunities**.
 
-I am the co-founder of [FSU](https://futurestateuniversity.io), an exciting new professional network taking place in simulated environemnts.
+I am the co-founder of [FSU](https://futurestateuniversity.io), an exciting new professional network taking place in simulated environments meant to improve the hiring process for everyone.
 
 - :fireworks: I am the lead developer and project manager (CPO) at Future State University.
 - 🔭 I’m currently looking for interesting curriculum... Let me know!
