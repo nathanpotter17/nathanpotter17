@@ -28,7 +28,7 @@ I am the co-founder of [FSU](https://futurestateuniversity.io), an exciting new 
 - :partying_face: Fun fact: I love to cook, I love to make art, and I love to travel.
 
 ## Numbers
-### [FSU](https://github.com/futurestateeducation) Private Contributions - 40
+### [FSU](https://github.com/futurestateeducation) Private Contributions - 40 - Novel JSX for Spatial Web (~20 components + Context Provider)
 ![Nathan's Stats](https://github-readme-stats.vercel.app/api?username=nathanpotter17&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 
 ![Nathan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nathanpotter17&theme=darcula&hide_border=true)
