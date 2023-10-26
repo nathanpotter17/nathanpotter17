@@ -1,4 +1,4 @@
-<h1>Hey! Check this out: </h1>
+<h1>Hey! Nice to see you here. </h1>
 
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
