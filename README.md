@@ -29,11 +29,11 @@ I am the co-founder of [FSU](https://futurestateuniversity.io), an exciting new 
 
 ## Numbers
 ### [FSU](https://github.com/futurestateeducation) Private Contributions - 40 - Novel JSX for Spatial Web (~20 components + Context Provider)
-![Nathan's Stats](https://github-readme-stats.vercel.app/api?username=nathanpotter1&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+![Nathan's Stats](https://github-readme-stats.vercel.app/api?username=nathanpotter17&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 
-![Nathan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nathanpotter1&theme=darcula&hide_border=true)
+![Nathan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nathanpotter17&theme=darcula&hide_border=true)
 
-![Nathans's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanpotter1&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+![Nathans's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanpotter17&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
 ### Where to find me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-potter-1/)
