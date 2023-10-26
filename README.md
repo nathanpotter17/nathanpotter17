@@ -12,12 +12,11 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Blender](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=blender&logoColor=white)
 
-I am a Full Stack Developer with a huge love for Alpine.js, Vue.js, React.js, Laravel, Headless Tech, Everything API, RDBMS, WordPress, TailwindCSS and System Architecture. Currently, **I'm open to work and employment opportunities**.
+I am a Full Stack Developer with a huge love for Three.js, Next.js, React.js, Python, TailwindCSS and 3D Animation and Rendering. Currently, **I'm open to work and employment opportunities**.
 
 I am the co-founder of [FSU](https://futurestateuniversity.io), an exciting new professional network taking place in simulated environemnts.
-
-I love to skateboard and listen to music.
 
 - :fireworks: I am the lead developer and project manager (CPO) at Future State University.
 - 🔭 I’m currently looking for interesting curriculum... Let me know!
@@ -27,15 +26,15 @@ I love to skateboard and listen to music.
 - 📫 I am just one mail away - [nathanscottpotter@gmail.com]
 - :partying_face: Fun fact: I love to cook, I love to make art, and I love to travel.
 
-
 ### Numbers
-![hasinhayder's Stats](https://github-readme-stats.vercel.app/api?username=nathanpotter17&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+![Nathan's Stats](https://github-readme-stats.vercel.app/api?username=nathanpotter17&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+![Private Stats](https://github-readme-stats.vercel.app/api?username=futurestateeducation&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 
-![hasinhayder's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nathanpotter17&theme=darcula&hide_border=true)
+![Nathan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nathanpotter17&theme=darcula&hide_border=true)
 
-![hasinhayder's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanpotter17&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+![Nathans's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanpotter17&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
 ### Where to find me
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-potter-1/)
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-potter-1/) 
 [Portfolio Site](http://nathanpotter.tech)
