@@ -29,7 +29,7 @@ I am the co-founder of [FSU](https://futurestateuniversity.io), an exciting new 
 
 ### Numbers
 ![Nathan's Stats](https://github-readme-stats.vercel.app/api?username=nathanpotter17&theme=darcula&show_icons=true&hide_border=true&count_private=true)
-![Private Stats](https://github-readme-stats.vercel.app/api?username=futurestateeducation&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+![Private Contributions] - 40
 
 ![Nathan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nathanpotter17&theme=darcula&hide_border=true)
 
