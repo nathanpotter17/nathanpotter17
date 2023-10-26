@@ -27,8 +27,8 @@ I am the co-founder of [FSU](https://futurestateuniversity.io), an exciting new 
 - 📫 I am just one mail away - [nathanscottpotter@gmail.com]
 - :partying_face: Fun fact: I love to cook, I love to make art, and I love to travel.
 
-### Numbers
-Private Contributions - 40
+## Numbers
+### Private Contributions - 40
 ![Nathan's Stats](https://github-readme-stats.vercel.app/api?username=nathanpotter17&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 
 ![Nathan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nathanpotter17&theme=darcula&hide_border=true)
