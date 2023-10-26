@@ -1,7 +1,6 @@
-<h1>Hey! Nice to see you.</h1>
+<h1>Hey! Check this out: </h1>
 
-🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲
-
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
@@ -15,7 +14,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma)
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
 
 I am a Full Stack Developer with a huge love for Three.js, Next.js, React.js, Python, TailwindCSS and 3D Animation and Rendering. Currently, **I'm open to work and employment opportunities**.
 
@@ -25,7 +23,7 @@ I am the co-founder of [FSU](https://futurestateuniversity.io), an exciting new 
 - 🔭 I’m currently looking for interesting curriculum... Let me know!
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity!
 - 👯 I’m currently open for work and employment opportunities (remote and relocation).
-- 💬 Ask me about Three.js, React.js, Next.js, and API development.
+- 💬 Ask me about Three.js, React.js, Next.js, and 3d Rendering & Optimization.
 - 📫 I am just one mail away - [nathanscottpotter@gmail.com]
 - :partying_face: Fun fact: I love to cook, I love to make art, and I love to travel.
 
