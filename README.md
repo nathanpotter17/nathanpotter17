@@ -25,7 +25,7 @@ I love to skateboard and listen to music.
 - 👯 I’m currently open for work and employment opportunities (remote and relocation).
 - 💬 Ask me about Three.js, React.js, Next.js, and API development.
 - 📫 I am just one mail away - [nathanscottpotter@gmail.com]
-- :partying_face: Fun fact: I love to cook, I love to sing, I love to travel on my motorcycle.
+- :partying_face: Fun fact: I love to cook, I love to make art, and I love to travel.
 
 
 ### Numbers
@@ -38,4 +38,4 @@ I love to skateboard and listen to music.
 ### Where to find me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-potter-1/) 
-[![Portfolio Site](http://nathanpotter.tech)
+[Portfolio Site](http://nathanpotter.tech)
