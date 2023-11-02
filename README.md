@@ -20,13 +20,12 @@ I am a Full Stack Developer with a huge love for Three.js, Next.js, React.js, Py
 
 I am the co-founder of [FSU](https://futurestateuniversity.io), an exciting new professional network taking place in simulated environments meant to improve the hiring process for everyone.
 
-- :fireworks: I am the lead developer and project manager (CPO) at Future State University.
 - 🔭 I’m currently looking for interesting curriculum... Let me know!
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity!
 - 👯 I’m currently open for work and employment opportunities (remote and relocation).
 - 💬 Ask me about Three.js, React.js, Next.js, and 3d Rendering & Optimization.
 - 📫 I am just one mail away - [nathanscottpotter@gmail.com]
-- :partying_face: Fun fact: I love to cook, I love to make art, and I love to travel.
+- :partying_face: Fun fact: I love to cook, I love to make art, and I love to teach kids how to skateboard.
 
 ## Numbers
 ### [FSU](https://github.com/futurestateeducation) Private Contributions - 40 - Novel JSX for Spatial Web (~20 components)
