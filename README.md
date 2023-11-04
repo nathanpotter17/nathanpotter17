@@ -18,9 +18,6 @@
 
 I am a Full Stack Developer with a huge love for Three.js, Next.js, React.js, Python, TailwindCSS and 3D Animation and Rendering. Currently, **I'm open to work and employment opportunities**.
 
-I am the co-founder of [FSU](https://futurestateuniversity.io), an exciting new professional network taking place in simulated environments meant to improve the hiring process for everyone.
-
-- 🔭 I’m currently looking for interesting curriculum... Let me know!
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity!
 - 👯 I’m currently open for work and employment opportunities (remote and relocation).
 - 💬 Ask me about Three.js, React.js, Next.js, and 3d Rendering & Optimization.
@@ -28,7 +25,7 @@ I am the co-founder of [FSU](https://futurestateuniversity.io), an exciting new 
 - :partying_face: Fun fact: I love to cook, I love to make art, and I love to teach kids how to skateboard.
 
 ## Numbers
-### [FSU](https://github.com/futurestateeducation) Private Contributions - 40 - Novel JSX for Spatial Web (~20 components)
+### [FSU](https://github.com/futurestateeducation) Private Start-Up Contributions - 40 - Novel JSX for Spatial Web (~20 components)
 
 ![Nathan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nathanpotter17&theme=darcula&hide_border=true)
 
