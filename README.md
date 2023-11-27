@@ -22,8 +22,8 @@ I am a Full Stack Developer with a huge love for Three.js, Next.js, React.js, Py
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity!
 - 👯 I’m currently open for work and employment opportunities (remote and relocation).
 - 💬 Ask me about Three.js, React.js, Next.js, and 3d Rendering & Optimization.
-- 📫 I am just one mail away - [nathanscottpotter@gmail.com]
-- :partying_face: Fun fact: I love to cook, I love to make art, and I love to teach kids how to skateboard.
+- 📫 I am just one mail away via the form on my portfolio page: [Nathan Potter's Portfolio](http://nathanpotter.tech)
+- :partying_face: Fun fact: I love to teach kids how to skateboard, and run lessons locally on Sundays!
 
 ## Numbers
 ### [FSU](https://github.com/futurestateeducation) Private Start-Up Contributions - 40 - Novel JSX for Spatial Web (~20 components)
@@ -32,5 +32,3 @@ I am a Full Stack Developer with a huge love for Three.js, Next.js, React.js, Py
 
 ### Where to find me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-potter-1/)
-
-[Portfolio Site](http://nathanpotter.tech)
