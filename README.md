@@ -17,7 +17,7 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma)
 
-I am a Full Stack Developer with a huge love for Three.js, Next.js, React.js, Python, TailwindCSS and 3D Animation and Rendering. Currently, **I'm open to full-time and contract employment opportunities**.
+I am a Full Stack Developer with a huge love for Three.js, Next.js, React.js, Python, CSS and 3D Animation and Rendering. Currently, **I'm open to full-time and contract employment opportunities**.
 
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity!
 - 👯 I’m currently open for work and employment opportunities (remote and relocation).
