@@ -17,16 +17,16 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma)
 
-I am a Full Stack Developer with a huge love for Three.js, Next.js, React.js, Python, CSS and 3D Animation and Rendering. Currently, **I'm open to full-time and contract employment opportunities**.
+I am a Full Stack Developer with a huge love for Three.js, Next.js, React.js, Python, CSS and 3D Animation and Rendering.
 
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity!
-- 👯 I’m currently open for work and employment opportunities (remote and relocation).
+- 👯 I’m currently open for work and employment opportunities.
 - 💬 Ask me about Three.js, React.js, Next.js, and 3d Rendering & Optimization.
 - 📫 I am just one mail away via the form on my portfolio page: [Nathan Potter's Portfolio](http://nathanpotter.tech)
-- :partying_face: Fun fact: I love to teach kids how to skateboard, and run lessons locally on Sundays!
+- :partying_face: Fun fact: I love to teach kids how to skateboard!
 
 ## Numbers
-### [FSU](https://github.com/futurestateeducation) Private Start-Up Contributions - 40 - Novel JSX for Spatial Web (~20 components)
+### [FSU](https://github.com/futurestateeducation) Contributions - 20 components for Spatial Web
 
 ![Nathan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nathanpotter17&theme=darcula&hide_border=true)
 
