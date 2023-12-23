@@ -16,6 +16,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+RmlyZWJhc2U8L3RpdGxlPjxwYXRoIGQ9Ik0zLjg5IDE1LjY3Mkw2LjI1NS40NjFBLjU0Mi41NDIgMCAwMTcuMjcuMjg4bDIuNTQzIDQuNzcxem0xNi43OTQgMy42OTJsLTIuMjUtMTRhLjU0LjU0IDAgMDAtLjkxOS0uMjk1TDMuMzE2IDE5LjM2NWw3Ljg1NiA0LjQyN2ExLjYyMSAxLjYyMSAwIDAwMS41ODggMHpNMTQuMyA3LjE0N2wtMS44Mi0zLjQ4MmEuNTQyLjU0MiAwIDAwLS45NiAwTDMuNTMgMTcuOTg0eiIvPjwvc3ZnPg==)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql)
 
 I am a Full Stack Developer with a huge love for Three.js, Next.js, React.js, Python, CSS and 3D Animation and Rendering.
 
