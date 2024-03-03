@@ -27,7 +27,6 @@ I am a Software Engineer with a huge love for Three.js, Next.js, React.js, Pytho
 - :partying_face: Fun fact: I love to teach kids how to skateboard!
 
 ## Numbers
-### [FSU](https://github.com/futurestateeducation) Contributions - 20 components for Spatial Web
 
 ![Nathan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nathanpotter17&theme=darcula&hide_border=true)
 
