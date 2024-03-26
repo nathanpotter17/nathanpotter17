@@ -21,7 +21,7 @@
 I am a Software Engineer with a huge love for Three.js, Next.js, React.js, Python, CSS and 3D Animation and Rendering.
 
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity!
-- 👯 I’m currently open for work and employment opportunities.
+- 👯 I’m currently open for contract opportunities.
 - 💬 Ask me about Three.js, React.js, Next.js, and 3d Rendering & Optimization.
 - 📫 I am just one mail away via the form on my portfolio page: [Nathan Potter's Portfolio](http://nathanpotter.tech)
 - :partying_face: Fun fact: I love to teach kids how to skateboard!
