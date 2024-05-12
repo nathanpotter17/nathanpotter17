@@ -18,7 +18,7 @@
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql)
 
-I am a Software Engineer with a huge love for Three.js, Next.js, React.js, Python, CSS and 3D Animation and Rendering.
+I'm Nathan, a Software Engineer with a huge love for Three.js, Next.js, React.js, Python, CSS and 3D Animation and Rendering.
 
 - 🌱 I’m currently learning Rust and C++.
 - 👯 I’m currently open for contract opportunities.
