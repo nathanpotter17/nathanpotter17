@@ -26,6 +26,8 @@ I'm Nathan, a Software Engineer with a huge love for Three.js, Next.js, React.js
 - 📫 Need specialized web services? Get a Free Quote: [NSP Studios](http://nathanpotter.tech)
 - 🛹 Fun fact: I love to teach kids how to skateboard!
 
+![Visitor Count](https://profile-counter.glitch.me/{nathanpotter17}/count.svg)
+
 ## Numbers
 
 ![Nathan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nathanpotter17&theme=darcula&hide_border=true)
