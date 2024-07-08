@@ -20,7 +20,7 @@
 
 I'm Nathan, a Software Engineer with a huge love for Three.js, Next.js, React.js, Python, CSS and 3D Animation and Rendering.
 
-- 🌱 I’m currently learning WebGPU using TS, Rust, C++, and C#.
+- 🌱 I’m currently learning various Graphics APIs using TS, Rust, C++, and C#.
 - 🏢 I’m currently open for contract opportunities.
 - 💬 Ask me about Three.js, React.js, Next.js, and 3d Rendering & Optimization.
 - 📫 Need specialized web services? Get a Free Quote: [NSP Studios](http://nathanpotter.tech)
