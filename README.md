@@ -31,8 +31,6 @@ I'm Nathan, a Software Engineer with a huge love for Three.js, Next.js, React.js
 
 ## Profile Stats
 
-![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanpotter17&theme=default&show_icons=true)
-
 ![Nathan's Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nathanpotter17&theme=github)
 
 ![Nathan's Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nathanpotter17&theme=github)
