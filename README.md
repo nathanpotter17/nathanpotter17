@@ -21,10 +21,8 @@
 I'm Nathan, a Software Engineer with a huge love for Three.js, Next.js, React.js, Python, 3D Animation, and Rendering.
 
 - 🌱 I’m currently learning WASM using TS, Rust, C++, and C.
-- 🏢 I’m currently open for contract opportunities.
 - 💬 Ask me about Three.js, React.js, Next.js, and 3d Rendering & Optimization.
 - 📫 Need specialized web services? Get a Free Quote: [NSP Studios](http://nathanpotter.tech)
-- 🛹 Fun fact: I love teaching kids how to skateboard!
 
 ![Visitors](https://komarev.com/ghpvc/?username=nathanpotter17&color=green)
 
