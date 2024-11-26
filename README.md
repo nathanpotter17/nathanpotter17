@@ -18,7 +18,7 @@
 
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
 
-I'm Nathan, a Software Engineer with a huge love for Three.js, Next.js, React.js, Python, 3D Animation, and Rendering.
+I'm Nathan, a Full Stack Developer that works with Web Assembly, Three.js, Next.js, React.js, and 3D Animation Software.
 
 - 🌱 I’m currently learning WASM, and other system level languages.
 - 💬 Ask me about Three.js, React.js, Next.js, and 3d Rendering & Optimization.
