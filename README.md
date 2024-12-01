@@ -15,7 +15,6 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+RmlyZWJhc2U8L3RpdGxlPjxwYXRoIGQ9Ik0zLjg5IDE1LjY3Mkw2LjI1NS40NjFBLjU0Mi41NDIgMCAwMTcuMjcuMjg4bDIuNTQzIDQuNzcxem0xNi43OTQgMy42OTJsLTIuMjUtMTRhLjU0LjU0IDAgMDAtLjkxOS0uMjk1TDMuMzE2IDE5LjM2NWw3Ljg1NiA0LjQyN2ExLjYyMSAxLjYyMSAwIDAwMS41ODggMHpNMTQuMyA3LjE0N2wtMS44Mi0zLjQ4MmEuNTQyLjU0MiAwIDAwLS45NiAwTDMuNTMgMTcuOTg0eiIvPjwvc3ZnPg==)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma)
 ![MongoDB](https://img.shields.io/badge/MongoDB-2D3748?style=flat-square&logo=mongodb)
-
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
 
 I'm Nathan, a Full Stack Developer that works with Web Assembly, Three.js, Next.js, React.js, and 3D Animation Software.
@@ -27,8 +26,6 @@ I'm Nathan, a Full Stack Developer that works with Web Assembly, Three.js, Next.
 ![Visitors](https://komarev.com/ghpvc/?username=nathanpotter17&color=green)
 
 ## Profile Stats
-
-![Nathan's Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nathanpotter17&theme=github)
 
 ![Nathan's Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nathanpotter17&theme=github)
 
