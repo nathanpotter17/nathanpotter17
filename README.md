@@ -21,8 +21,6 @@ I'm Nathan, a Full Stack Developer that works with Web Assembly, Three.js, Next.
 - 💬 Ask me about Three.js, React.js, Next.js, and 3d Rendering & Optimization.
 - 📫 Need specialized web services? Get a Free Quote: [NSP Studios](http://nathanpotter.tech)
 
-![Visitors](https://komarev.com/ghpvc/?username=nathanpotter17&color=green)
-
 ## Profile Stats
 
 ![Nathan's Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nathanpotter17&theme=github)
