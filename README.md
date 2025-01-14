@@ -23,7 +23,7 @@ I'm Nathan, a Full Stack Developer that works with Web Assembly, Three.js, Next.
 
 ## Profile Stats
 
-![Nathan's Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nathanpotter17&theme=github)
+![Nathan's Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nathanpotter17&theme=github)
 
 ### Where to find me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-potter-1/)
