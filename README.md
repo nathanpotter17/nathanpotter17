@@ -24,4 +24,6 @@ I'm Nathan, a Full Stack Developer that works with Web Assembly, Three.js, Next.
 
 ## Profile Stats
 
-![Nathan's Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nathanpotter17&theme=github)
+![Nathan's Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nathanpotter17&theme=github)
+![Commits By Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nathanpotter17&theme=github)
+
