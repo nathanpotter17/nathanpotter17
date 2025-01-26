@@ -17,8 +17,8 @@
 
 I'm Nathan, a Full Stack Developer that works with Web Assembly, Three.js, Next.js, React.js, and 3D Animation Software.
 
-- 🌱 I’m currently learning WASM, and other system level languages.
-- 💬 Ask me about Three.js, React.js, Next.js, and 3d Rendering & Optimization.
+- 🌱 I’m currently learning system level languages.
+- 💬 Ask me about Web Assembly, Three.js, React.js, Next.js, and 3d Rendering & Optimization.
 - 📫 Need specialized web services? Get a Free Quote: [NSP Studios](https://www.nathanpotter.tech)
 - 🛜 Find me on LinkedIn: [My LinkedIn](https://www.linkedin.com/in/nathan-potter1)
 
