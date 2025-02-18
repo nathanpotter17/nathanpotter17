@@ -1,4 +1,4 @@
-<h1>Hey! Nice to see you here. </h1>
+<h1>Welcome.</h1>
 
 ![Git](https://img.shields.io/badge/Git-2D3748?style=flat-square&logo=git)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -15,10 +15,10 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-2D3748?style=flat-square&logo=mongodb)
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
 
-I'm Nathan, a Full Stack Developer that works with Web Assembly, Three.js, Next.js, React.js, and 3D Animation Software.
+I'm Nathan, a Full Stack Developer. I have a passion for building powerful applications for the web and a variety of operating systems.
 
-- 🌱 I’m currently learning system level languages.
-- 💬 Ask me about Web Assembly, Three.js, React.js, Next.js, and 3d Rendering & Optimization.
+- 🌱 I’m currently learning system level languages and their build tools.
+- 💬 Ask me about Web Assembly, Three.js, React.js, Next.js, or 3D Rendering & Animation.
 - 📫 Need specialized web services? Get a Free Quote: [NSP Studios](https://www.nathanpotter.tech)
 - 🛜 Find me on LinkedIn: [My LinkedIn](https://www.linkedin.com/in/nathan-potter1)
 
