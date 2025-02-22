@@ -15,8 +15,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-2D3748?style=flat-square&logo=mongodb)
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
 
-## Profile Stats
-
-![Nathan's Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nathanpotter17&theme=github)
+![Nathan's Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nathanpotter17&theme=github)
 ![Commits By Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nathanpotter17&theme=github)
 
