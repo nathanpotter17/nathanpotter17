@@ -15,13 +15,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-2D3748?style=flat-square&logo=mongodb)
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
 
-I'm Nathan, a Full Stack Developer. I have a passion for building powerful applications for the web and a variety of operating systems.
-
-- 🌱 I’m currently learning system level languages and their build tools.
-- 💬 Ask me about Web Assembly, Three.js, React.js, Next.js, or 3D Rendering & Animation.
-- 📫 Need specialized web services? Get a Free Quote: [NSP Studios](https://www.nathanpotter.tech)
-- 🛜 Find me on LinkedIn: [My LinkedIn](https://www.linkedin.com/in/nathan-potter1)
-
 ## Profile Stats
 
 ![Nathan's Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nathanpotter17&theme=github)
